@@ -10,7 +10,6 @@
 
   nslookup  us-east-1-a.route.herokuapp.com 8.8.8.8
 
-
 # 参考 
 https://github.com/v2ray/v2ray-core
 

@@ -31,7 +31,7 @@
          {
            "id": "your UUID",
            "alterId": 64,
-           "security": "none"
+           "security": "auto"
          }
          ]
      }

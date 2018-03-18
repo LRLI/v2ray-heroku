@@ -26,7 +26,7 @@
     "addProtocolPass": {
        "description": "增加的protocol的password",
        "value": ""
-     },
+     }
   },
   "website": "https://github.com/joborbits/v2ray-heroku",
   "repository": "https://github.com/joborbits/v2ray-heroku",

@@ -7,7 +7,7 @@ ENV CONFIG_JSON3=\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\
 ENV CONFIG_JSON4=\",\"port\":
 ENV CONFIG_JSON5=,\"settings\":{\"method\":\"
 ENV CONFIG_JSON6=\",\"password\":\"
-ENV CONFIG_JSON7=\",\"udp\": false}}],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}} 
+ENV CONFIG_JSON7=\",\"udp\":false}}],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}} 
 
 
 

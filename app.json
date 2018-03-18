@@ -10,9 +10,25 @@
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
        "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
-     }
+     },
+    "addProtocol": {
+       "description": "增加的protocol",
+       "value": ""
+     },
+    "addProtocolPort": {
+       "description": "增加的protocol的port",
+       "value": ""
+     },
+    "addProtocolmethod": {
+       "description": "增加的protocol的method",
+       "value": ""
+     },
+    "addProtocolPass": {
+       "description": "增加的protocol的password",
+       "value": ""
+     },
   },
-  "website": "https://github.com/wangyi2005/v2ray-heroku",
-  "repository": "https://github.com/wangyi2005/v2ray-heroku",
+  "website": "https://github.com/joborbits/v2ray-heroku",
+  "repository": "https://github.com/joborbits/v2ray-heroku",
   "stack": "container"
  }
